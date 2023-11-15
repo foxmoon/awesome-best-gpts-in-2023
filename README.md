@@ -1,6 +1,6 @@
-# awesome-gpts
+# awesome-best-gpts-in-2023
 
-Awesome GPTs is a collection of all GPTs created by the community.
+Awesome GPTs is a best collection of all GPTs created by the community in 2023.
 
 ## Content Creation & Writing
 - [BibiGPT.co](https://chat.openai.com/g/g-HEChZ7eza-bibigpt-co): I summarize Bilibili/YouTube/Tiktok videos into key points. Just give me a link by [Jimmy Jinglv](https://x.com/Jimmy_JingLv/)
